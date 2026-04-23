@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azur-gamma.vercel.app/sitemap.xml
