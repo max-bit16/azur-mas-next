@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   title: 'Azure Mas — Restaurant Gastronomique Méditerranéen | Provence',
   description: "Restaurant gastronomique sur la Côte d'Azur. Produits locaux d'exception, terrasse panoramique, cave à vins. Réservations et privatisation.",
   robots: 'index, follow',
+  verification: {
+    google: 'fcqMFcvP4_5-TgE_78loNd7RozpKu-ffIsJ9V8SW5b0',
+  },
   openGraph: {
     title: 'Azure Mas — Restaurant Gastronomique Méditerranéen',
     description: "Produits locaux d'exception, terrasse panoramique, cave à vins. Côte d'Azur.",
